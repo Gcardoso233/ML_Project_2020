@@ -8,6 +8,7 @@ predicting income from the proposed dataset using supervised machine learning al
 - Support Vector Machine
 - Gradient Boosting
 - Ada Boost algorithm
+
 And compare their performances to obtain the best performing classifier and then use Stacking to increasing the predictive force of the classifier.
 
 The result is that the best model is Gradient Boosting with average F1 Score of 86.96% using 10-fold cross-validation over 22,400 observations in the training dataset.
